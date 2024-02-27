@@ -1,3 +1,4 @@
+![image](https://github.com/Myash21/Time-Series-Forecasting/assets/130383057/d3c212c6-c20e-489f-b196-6c55b73b9993)
 
 # Time Series Forecasting
 
