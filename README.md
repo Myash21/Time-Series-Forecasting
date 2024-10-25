@@ -59,3 +59,5 @@ Now ARIMA was built to combat the issue of auto-correlation that we find when us
  - [ARIMA forecasting](https://medium.com/swlh/temperature-forecasting-with-arima-model-in-python-427b2d3bcb53)
  - [Time series playlist](https://www.youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP)
  - [LSTM](https://www.youtube.com/watch?v=c0k-YLQGKjY)
+
+## Read more in my medium [article](https://medium.com/@yashmhaskar21/time-series-analysis-2fc4f795b141):
